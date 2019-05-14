@@ -1,0 +1,7 @@
+For the first hour, I implemented the basic structure of the site with bootstrap.
+I knew I wanted to have navigation be a column to the left of the site and have the site be
+centered from that column in the page, since the navbar seems a bit too corporate and
+unwieldly considering the size of the site. Looking through bootstraps nav items I chose
+tabs to offer a simple way of delineating the different sections, and struggled with centering
+the content in the page until stackoverflow clued me in on setting the body to be the whole
+page so I can then center the container within the body.
