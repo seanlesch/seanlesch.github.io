@@ -5,3 +5,22 @@ unwieldly considering the size of the site. Looking through bootstraps nav items
 tabs to offer a simple way of delineating the different sections, and struggled with centering
 the content in the page until stackoverflow clued me in on setting the body to be the whole
 page so I can then center the container within the body.
+The next hour involved getting a picture of myself posistioned in a way that I wanted. Placing it
+anywhere on the page messed with the perfect centering of the different content tabs, so my initial
+ideas of placing it as a navbar, or of the the left of the nav column didn't result in the same 
+clean design I was going for. I was left with two options: placing it in the home or bio sections
+or above the nav tabs. I choose to not place it in the nav content since it is a critical component
+of the site since it shows who the site is about. Next was placing it cleanly above the nav tabs, 
+which proved very challenging. My initial hope was to have it float in the top 25% of the column
+so there would be clear delineation between the content and the navigation, but my method of centering
+the nav made that impossible since it would always center with the nav vertically. I tried to move it
+to different containers and rows, but it never achieved the spacing I wanted. So I was forced to
+place it right above the nav, but I created some spacing with a caption so it is a bit cleaner. I then
+centered everything for that column since the picture did not look well-aligned when it floated left,
+and floating it center against the left justified text made the text look off. Overall the aim of
+a clean aesthetic seems to be working well, but I might want to put something in the background. I also
+need to change the color scheme and maybe the font as well, since the bootstrap default is a little too
+Facebook Messenger for me.
+I next added some content to Home and Bio, using a Jumbotron for home to make the landing tab a little
+less sparse and empty looking. The different fonts help break everything up and the background box
+makes it pop a bit more. The plain paragraph in the bio is less inviting, but I'm not sure how to improve it.
