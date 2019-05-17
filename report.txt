@@ -24,3 +24,13 @@ Facebook Messenger for me.
 I next added some content to Home and Bio, using a Jumbotron for home to make the landing tab a little
 less sparse and empty looking. The different fonts help break everything up and the background box
 makes it pop a bit more. The plain paragraph in the bio is less inviting, but I'm not sure how to improve it.
+Once I had a bit of content I got to work trying to deploy what I had so far. I initially wanted to utilize
+the Google Cloud since we had received credits towards that, but given the amount of time and my lack of 
+prior knowledge regarding Google Cloud I elected to host it using GitHub Pages. This was pretty simple and
+required only renaming my html file and creating the new repository with the naming structure github requires
+for its pages.
+Adding my projects was a bit of a wild goose chase. I had an idea to use some embedded content to show a brief
+description and stats about the repositories, and found a way to do so with something called GitHub Cards.
+Unfortunately, it appears that the service for it has stopped being kept up, and while I did explore using 
+the GitHub API and doing something similar myself, I determined with my time constraints I couldn't get 
+something up in time. So I used the "poor man's" version with bootstrap cards and some links.
