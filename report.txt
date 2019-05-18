@@ -34,3 +34,12 @@ description and stats about the repositories, and found a way to do so with some
 Unfortunately, it appears that the service for it has stopped being kept up, and while I did explore using 
 the GitHub API and doing something similar myself, I determined with my time constraints I couldn't get 
 something up in time. So I used the "poor man's" version with bootstrap cards and some links.
+Next I spent some time dealing with the color scheme. I found many sites touting bootstrap color theming
+capabilities, but most simply generated from a list of already chosen schemes, with little detail on how to
+use them myself. The colorscheme I liked most was from a site that wished for me to download their js files
+and creating an account for their service, which I was loathe to do. This site did provide hex values for their
+colors though, so I began researching how I could do this myself. Once I determined that I would have to mess 
+with the SASS in Bootstrap, and that doing so meant downloading the Bootstrap source files and compiling them 
+for myself, I went back to searching for an easier solution. I found Bootswatch which fit the bill perfectly for
+ease of use: I only had to download a precompiled version of Bootstrap with the color scheme I wanted. I chose
+the classic solarized and called it good.
