@@ -43,3 +43,10 @@ with the SASS in Bootstrap, and that doing so meant downloading the Bootstrap so
 for myself, I went back to searching for an easier solution. I found Bootswatch which fit the bill perfectly for
 ease of use: I only had to download a precompiled version of Bootstrap with the color scheme I wanted. I chose
 the classic solarized and called it good.
+The last component for this "sprint" of the site was the contact page. Since the site is hosted publicly through
+Github Pages I was wary of posting my phone number and email address with the amount of spam I already get. I 
+choose instead to use my Github and Linkedin profiles as contact points since the site is professionally focused
+and both of those services represent (in my mind) nearly all the online platforms important towards getting a job 
+in the future. I wanted icons that would link to my respective profiles from the services so there is easy future
+additions for any other platforms I wish to add in the future. Towards that end I had some trouble aligning them 
+centered in the row, but after trying nearly all of Boostraps alignment classes I eventually got it figured out.
